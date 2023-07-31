@@ -22,5 +22,5 @@ The dataset used for this project can be found in the data directory. It contain
 Model Training
 The flight_prediction.ipynb notebook contains the code for preprocessing the dataset, training the machine learning model, and saving the trained model to disk. It also includes code snippets for performing hyperparameter tuning using techniques such as grid search or random search.
 
-Evaluation
-The performance of the flight prediction model can be evaluated using various metrics such as accuracy, precision, recall, and F1
+### Evaluation
+The performance of the flight prediction model can be evaluated using various metrics such as MSE, MAE and RMSE.
