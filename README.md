@@ -1,4 +1,4 @@
-# Coding_Raja_task_3_FlightPrediction
+# Flight Price Prediction
 ## Indian Flight Price Prediction
 
 This project is focused on utilizing machine learning techniques and hyperparameter tuning to predict flight prices. The goal is to develop a model that can accurately predict price based on various features such as route, duration, stops, and more.
